@@ -1,0 +1,6 @@
+<%
+    
+    out.print("Hello world.");
+
+%>
+   
